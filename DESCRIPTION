@@ -1,0 +1,12 @@
+Package: IndexFunds
+Type: Package
+Title: ETF's closing prices 
+Version: 0.1.0
+Author: Pablo Newman
+Maintainer: Pablo Newman <pablolm.garcia@me.com>
+Description: Selection of index funds to visually verify its price over a one year period. 
+Imports: quantmod, BatchGetSymbols, plotly, shiny, ggplot2 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
